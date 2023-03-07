@@ -3,7 +3,7 @@
 GRATIS VERSION
 
 
- <strong> FOR BETA VERSION MESSAGE ME ></strong> > https://t.me/cyclonehax
+ <strong> FOR BETA VERSION MESSAGE ME ></strong> > https://t.me/Dacypherd
 
 
 ![bulk-sender](https://user-images.githubusercontent.com/126171404/223137064-e81e443b-5ffd-4142-a33c-e85696551556.PNG)
@@ -14,7 +14,7 @@ BE CAREFUL WHEN USING IT DUE TO SENDING LIMITS
 
 The sending rate for the beta version is unlimited.
 
- <strong> FOR BETA VERSION MESSAGE ME ></strong> > https://t.me/cyclonehax
+ <strong> FOR BETA VERSION MESSAGE ME ></strong> > https://t.me/Dacypherd
 
 
 # CONFIGURATION
@@ -28,7 +28,7 @@ email address
 
 password
 
-Beta version available at:  https://t.me/cyclonehax
+Beta version available at:  https://t.me/Dacypherd
 
 # USAGE
 You must configure the;
@@ -44,7 +44,7 @@ You must compile a list of all the email addresses you wish to send emails to an
 
 If you're unfamiliar with Python or want a simple approach
 
- <strong>GET THE BETA VERSION > </strong> > https://t.me/cyclonehax
+ <strong>GET THE BETA VERSION > </strong> > https://t.me/Dacypherd
 
 
 # LEGAL DISCLAIMER
